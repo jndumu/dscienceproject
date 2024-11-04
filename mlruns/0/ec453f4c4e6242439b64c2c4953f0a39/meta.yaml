@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dell/Desktop/MLOPS/dscienceproject/mlruns/0/ec453f4c4e6242439b64c2c4953f0a39/artifacts
+end_time: 1730745747834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec453f4c4e6242439b64c2c4953f0a39
+run_name: carefree-moose-595
+run_uuid: ec453f4c4e6242439b64c2c4953f0a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730745738571
+status: 3
+tags: []
+user_id: Dell
